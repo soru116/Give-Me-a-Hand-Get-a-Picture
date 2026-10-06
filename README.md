@@ -75,6 +75,7 @@ python main.py
   <img width="49%" alt="遊戲結束" src="https://github.com/user-attachments/assets/304c2f28-f3d4-415e-bf9d-d34d86369141" />
 </p>
 示範及解說影片連結：https://youtu.be/7qfffHcIes8?si=hSeGWEbxoibGFCMx
+
 ## 📁 檔案結構
 
 ```
